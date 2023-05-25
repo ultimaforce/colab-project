@@ -21,8 +21,6 @@ public class App {
         Student s1 = new Student("Vladislav", "Elizarov", 27, (long)3366);
         Student s2 = new Student("Андрей", "Сидоров", 26, (long)3367);
         Student s3 = new Student("Иван", "Петров", 22, (long)3368);
-        Student s4 = new Student("Игорь", "Иванов", 23, (long)3369);
-        Student s5 = new Student("Даша", "Цветкова", 24, (long)3370);
         Student s6 = new Student("Лена", "Незабудкина", 21, (long)3371);
         Student s7 = new Student("Мирон", "Федоров", 25, (long)3372);
         Student ts1 = new Student("Test1", "Testovich1", 30, 1500);
