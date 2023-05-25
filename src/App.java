@@ -25,8 +25,6 @@ public class App {
         Student s5 = new Student("Даша", "Цветкова", 24, (long)3370);
         Student s6 = new Student("Лена", "Незабудкина", 21, (long)3371);
         Student s7 = new Student("Мирон", "Федоров", 25, (long)3372);
-        Student s8 = new Student("Илья", "Газманов", 29, (long)3373);
-        Student s9 = new Student("Настя", "Дроздова", 28, (long)3374);
         Student ts1 = new Student("Test1", "Testovich1", 30, 1500);
         Student ts2 = new Student("Test2", "Testovich2", 31, 1501);
 
@@ -35,12 +33,10 @@ public class App {
         alpha.add(s1);
         alpha.add(s2);
         alpha.add(s3);
-        alpha.add(s4);
-        alpha.add(s5);
+        alpha.add(ts1);
+        alpha.add(ts2);
         alpha.add(s6);
         alpha.add(s7);
-        alpha.add(s8);
-        alpha.add(s9);
 
         // *******************************************
         // **** Students list for the third model ****
