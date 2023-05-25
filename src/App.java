@@ -27,6 +27,8 @@ public class App {
         Student s7 = new Student("Мирон", "Федоров", 25, (long)3372);
         Student s8 = new Student("Илья", "Газманов", 29, (long)3373);
         Student s9 = new Student("Настя", "Дроздова", 28, (long)3374);
+        Student ts1 = new Student("Test1", "Testovich1", 30, 1500);
+        Student ts2 = new Student("Test2", "Testovich2", 31, 1501);
 
         /** Add created students to list */
         List<Student> alpha = new ArrayList<>();
